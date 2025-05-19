@@ -1,0 +1,25 @@
+Effective Date: May 19, 2025
+
+Your privacy is important. DIRECTIVE-7 is designed to operate within a single Discord server and only uses the minimum required data for its functionality.
+
+1. What Data We Access
+- User IDs and message content (only for moderation triggers).
+- Role and channel IDs for role management and permissions.
+- We do not collect, store, or share any personally identifiable information.
+
+2. How We Use It
+- To assign or remove roles based on your interactions.
+- To support moderation tools (e.g., mute, warn, kick).
+- To automate specific Vector-7 game features or community roles.
+
+3. Data Retention
+- No data is permanently stored outside of Discord.
+- Temporary data (e.g., mute timers, levels) may be stored in memory while the bot is running.
+
+4. Third Parties
+- No data is shared with third-party services or individuals.
+
+5. Security
+- DIRECTIVE-7 uses standard Discord bot permissions.
+- The bot does not request or require access to your direct messages or personal files.
+
